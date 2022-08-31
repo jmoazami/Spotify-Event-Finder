@@ -1,5 +1,5 @@
 # Spotify-Event-Finder
-This project, inspired by the work of developer [Brittany Chiang] (https://www.newline.co/courses/build-a-spotify-connected-app), is meant to demonstrate my ability to extract personalized data from Spotify using the Spotify Developer API. Currently a work in progress, it will soon use this data and the TicketMaster API to find local concerts near you based off your favorite music.
+This project, inspired by the work of developer [Brittany Chiang](https://www.newline.co/courses/build-a-spotify-connected-app), is meant to demonstrate my ability to extract personalized data from Spotify using the Spotify Developer API. Currently a work in progress, it will soon use this data and the TicketMaster API to find local concerts near you based off your favorite music.
 
 
 This app was built using React and Node.js. Making using of the Spotify Developer API, this app makes use of the OAuth2 Protocol to acquire an access token from Spotify to extract user data. This data is then displayed on the webpage elegantly and cleanly.
@@ -20,13 +20,13 @@ Moving forward, the app will use the extracted data to "plug in" information to 
     nvm install
     ```
 
-5. Install dependencies
+5. Install dependencies.
 
     ```shell
     npm install
     ```
 
-6. Run the React app on <http://localhost:3000> and the Node server on <http://localhost:8888>
+6. Run the React app on <http://localhost:3000> and the Node server on <http://localhost:8888>.
 
     ```shell
     npm start
