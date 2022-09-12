@@ -17,13 +17,15 @@ font-style: normal;
   margin-bottom: 100px;
   margin-top: 100px;
 
+
 }
+
 
 .header__img{
   
   border-radius: 50%;
   margin-right: 30px;
-  margin-left: 90px;
+  margin-left: 5%;
 }
 
 .header__img_playlist{
@@ -38,13 +40,13 @@ font-style: normal;
   flex-direction: row;
   text-align: auto;
   margin-bottom: 100px;
-  width: 2000px;
+  width: 100%;
+  width: fit-content;
+  
 
 }
 
-.headerMargin{
-  margin-left: -100px;
-}
+
 
 
 .tabList {

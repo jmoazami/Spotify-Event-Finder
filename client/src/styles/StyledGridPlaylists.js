@@ -5,7 +5,7 @@ const StyledGridPlaylists = styled.ul`
   padding: 0;
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
-  grid-gap: 140px;
+  grid-gap: 130px;
   background-color: var(--near-black);
 
   @media (min-width: 768px) {

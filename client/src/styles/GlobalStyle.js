@@ -2,6 +2,7 @@ import { createGlobalStyle } from 'styled-components/macro';
 import variables from './variables';
 
 const GlobalStyle = createGlobalStyle`
+
   ${variables};
 
   html {

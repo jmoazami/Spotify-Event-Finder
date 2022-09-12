@@ -1,6 +1,7 @@
 import styled from 'styled-components/macro';
 
 const StyledSection = styled.section`
+
   &:first-of-type {
     .section__inner {
       padding-top: 0;
